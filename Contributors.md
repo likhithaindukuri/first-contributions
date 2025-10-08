@@ -1,5 +1,6 @@
 # Contributors
 - [Anirudh](https://github.com/anirudh240)
+- [Anirudh](https://github.com/anirudh240)
 - [Choudary Hussain Ali](https://github.com/choudaryhussainali)
 - [Sunday](https://github.com/Hao-tian)
 - [Demetris B.](https://github.com/deyil)
