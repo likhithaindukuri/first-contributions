@@ -28,6 +28,8 @@
 - [Mantarey.dev](https://mantarey.dev)
 - [Thabeswar](https://github.com/Thabeswar)
 - [Yash](https://github.com/yuishigam1)
+- [Praven Enjamoori](https://github.com/praveenenjamoori)
+- [Bhanu Teja](https://github.com/Gbhanuteja22)
 - [Abhi][https://github.com/Abhi-AIX]
 - [Chandru][https://github.com/P-Chandru]
 - [Rizal][https://github.com/rizalilhamm]
